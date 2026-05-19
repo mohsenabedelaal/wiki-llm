@@ -11,14 +11,10 @@
             "id": "0df7e25b8499a26b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "New tab"
             }
           }
         ]
@@ -183,36 +179,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "0df7e25b8499a26b",
+  "active": "9092d33b46decd69",
   "lastOpenFiles": [
-    "wiki/index.md",
-    "raw/Gradient boosting.md",
-    "wiki/cart.md",
+    "Welcome.md",
     "CLAUDE.md",
-    "wiki/additive-training.md",
-    "raw/Introduction to Boosted Trees — xgboost 3.2.1 documentation.md",
-    "wiki/log.md",
-    "wiki/boosting.md",
-    "wiki/introduction-to-boosted-trees-xgboost.md",
-    "wiki/gradient-boosting-wikipedia.md",
-    "wiki/feature-importance.md",
-    "wiki/bias-variance-tradeoff.md",
-    "wiki/objective-function.md",
-    "wiki/l2-leaf-penalty.md",
-    "wiki/complexity-penalty.md",
+    "wiki/xgboost.md",
+    "wiki/weak-learner.md",
     "wiki/tree-size.md",
-    "wiki/stochastic-gradient-boosting.md",
-    "wiki/shrinkage.md",
-    "wiki/regularization.md",
-    "wiki/split-finding.md",
     "wiki/structure-score.md",
+    "wiki/stochastic-gradient-boosting.md",
+    "wiki/split-finding.md",
+    "wiki/shrinkage.md",
     "wiki/second-order-taylor-approximation.md",
-    "wiki/gradient-tree-boosting.md",
-    "wiki/functional-gradient-descent.md",
+    "wiki/regularization.md",
     "wiki/pseudo-residuals.md",
+    "wiki/objective-function.md",
+    "wiki/log.md",
+    "wiki/l2-leaf-penalty.md",
+    "wiki/introduction-to-boosted-trees-xgboost.md",
+    "wiki/index.md",
+    "wiki/gradient-tree-boosting.md",
+    "wiki/gradient-boosting.md",
+    "wiki/gradient-boosting-wikipedia.md",
+    "wiki/functional-gradient-descent.md",
+    "wiki/feature-importance.md",
     "wiki/decision-tree-ensembles.md",
-    "templates",
+    "wiki/complexity-penalty.md",
+    "wiki/cart.md",
+    "wiki/boosting.md",
     "wiki",
+    "templates",
     "raw"
   ]
 }
